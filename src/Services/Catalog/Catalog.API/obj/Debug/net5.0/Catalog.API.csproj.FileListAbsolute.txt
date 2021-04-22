@@ -11,7 +11,6 @@ C:\Users\timmy\Documents\Repositories\AspnetMicroservices\src\Services\Catalog\C
 C:\Users\timmy\Documents\Repositories\AspnetMicroservices\src\Services\Catalog\Catalog.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\timmy\Documents\Repositories\AspnetMicroservices\src\Services\Catalog\Catalog.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\timmy\Documents\Repositories\AspnetMicroservices\src\Services\Catalog\Catalog.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\timmy\Documents\Repositories\AspnetMicroservices\src\Services\Catalog\Catalog.API\obj\Debug\net5.0\Catalog.API.csprojAssemblyReference.cache
 C:\Users\timmy\Documents\Repositories\AspnetMicroservices\src\Services\Catalog\Catalog.API\obj\Debug\net5.0\Catalog.API.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\timmy\Documents\Repositories\AspnetMicroservices\src\Services\Catalog\Catalog.API\obj\Debug\net5.0\Catalog.API.AssemblyInfoInputs.cache
 C:\Users\timmy\Documents\Repositories\AspnetMicroservices\src\Services\Catalog\Catalog.API\obj\Debug\net5.0\Catalog.API.AssemblyInfo.cs
@@ -27,3 +26,16 @@ C:\Users\timmy\Documents\Repositories\AspnetMicroservices\src\Services\Catalog\C
 C:\Users\timmy\Documents\Repositories\AspnetMicroservices\src\Services\Catalog\Catalog.API\obj\Debug\net5.0\ref\Catalog.API.dll
 C:\Users\timmy\Documents\Repositories\AspnetMicroservices\src\Services\Catalog\Catalog.API\obj\Debug\net5.0\Catalog.API.pdb
 C:\Users\timmy\Documents\Repositories\AspnetMicroservices\src\Services\Catalog\Catalog.API\obj\Debug\net5.0\Catalog.API.genruntimeconfig.cache
+C:\Users\timmy\Documents\Repositories\AspnetMicroservices\src\Services\Catalog\Catalog.API\bin\Debug\net5.0\DnsClient.dll
+C:\Users\timmy\Documents\Repositories\AspnetMicroservices\src\Services\Catalog\Catalog.API\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\timmy\Documents\Repositories\AspnetMicroservices\src\Services\Catalog\Catalog.API\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\timmy\Documents\Repositories\AspnetMicroservices\src\Services\Catalog\Catalog.API\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\timmy\Documents\Repositories\AspnetMicroservices\src\Services\Catalog\Catalog.API\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\timmy\Documents\Repositories\AspnetMicroservices\src\Services\Catalog\Catalog.API\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\timmy\Documents\Repositories\AspnetMicroservices\src\Services\Catalog\Catalog.API\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\timmy\Documents\Repositories\AspnetMicroservices\src\Services\Catalog\Catalog.API\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\timmy\Documents\Repositories\AspnetMicroservices\src\Services\Catalog\Catalog.API\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\timmy\Documents\Repositories\AspnetMicroservices\src\Services\Catalog\Catalog.API\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\timmy\Documents\Repositories\AspnetMicroservices\src\Services\Catalog\Catalog.API\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\timmy\Documents\Repositories\AspnetMicroservices\src\Services\Catalog\Catalog.API\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\timmy\Documents\Repositories\AspnetMicroservices\src\Services\Catalog\Catalog.API\obj\Debug\net5.0\Catalog.API.csprojAssemblyReference.cache
